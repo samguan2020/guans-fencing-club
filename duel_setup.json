@@ -1,0 +1,41 @@
+{
+  "piste": 1,
+  "sequence": "/Game/GuansClub/Duel/LS_Piste01_Duel",
+  "fps": 24,
+  "duration_seconds": 10.416666666666666,
+  "x_offset_cm": -152.439284324646,
+  "notes": [
+    "No sword geometry is present in supplied FBX files.",
+    "Per-frame actor Y offset cancels reconstructed lateral root drift; hip centres stay on piste 1. Original poses and longitudinal root motion are unchanged.",
+    "Source reconstructions may contain drift or pose inaccuracies; not corrected here."
+  ],
+  "fencers": [
+    {
+      "id": "001",
+      "source": "C:\\Users\\xingu\\Downloads\\fencing_duel_clip_customModel_jjdkTKijbmuNrKmcVNd7Tb_001\\fencing_duel_clip_jjdkTKijbmuNrKmcVNd7Tb_001.fbx",
+      "mesh": "/Game/GuansClub/Duel/Fencer001/SK_Fencer001.SK_Fencer001",
+      "animation": "/Game/GuansClub/Duel/Fencer001/SK_Fencer001_Anim.SK_Fencer001_Anim",
+      "duration_seconds": 10.416666984558105,
+      "actor_location_cm": [
+        -152.439284324646,
+        207.7148413658142,
+        7.5
+      ],
+      "source_median_y_m": -1.022851586341858
+    },
+    {
+      "id": "002",
+      "source": "C:\\Users\\xingu\\Downloads\\fencing_duel_clip_customModel_jjdkTKijbmuNrKmcVNd7Tb_002\\fencing_duel_clip_jjdkTKijbmuNrKmcVNd7Tb_002.fbx",
+      "mesh": "/Game/GuansClub/Duel/Fencer002/SK_Fencer002.SK_Fencer002",
+      "animation": "/Game/GuansClub/Duel/Fencer002/SK_Fencer002_Anim.SK_Fencer002_Anim",
+      "duration_seconds": 10.416666984558105,
+      "actor_location_cm": [
+        -152.439284324646,
+        427.2253489494324,
+        7.5
+      ],
+      "source_median_y_m": 1.1722534894943237
+    }
+  ],
+  "lateral_alignment": "animated actor transform; no changes to source FBX"
+}

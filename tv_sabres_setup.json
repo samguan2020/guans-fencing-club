@@ -1,0 +1,59 @@
+{
+  "screen": {
+    "wall": "north wall behind piste 1",
+    "size_cm": [
+      640,
+      360
+    ],
+    "centre_cm": [
+      0,
+      861,
+      350
+    ],
+    "source": "/Game/GuansClub/ReplayDisplay/MS_FencingFrames.MS_FencingFrames",
+    "player": "Sequencer-managed runtime MediaPlayer",
+    "texture": "/Game/GuansClub/ReplayDisplay/MT_FencingReference.MT_FencingReference"
+  },
+  "swords": [
+    {
+      "fencer": "Piste 1 - Fencer 001",
+      "socket": "r_hand_JNT",
+      "grip_offset_cm": [
+        -7,
+        2,
+        0
+      ],
+      "rotation_degrees": {
+        "yaw": 180,
+        "pitch": 0,
+        "roll": 0
+      }
+    },
+    {
+      "fencer": "Piste 1 - Fencer 002",
+      "socket": "r_hand_JNT",
+      "grip_offset_cm": [
+        -7,
+        2,
+        0
+      ],
+      "rotation_degrees": {
+        "yaw": 180,
+        "pitch": 0,
+        "roll": 0
+      }
+    }
+  ],
+  "sync": {
+    "sequence": "/Game/GuansClub/Duel/LS_Piste01_Duel.LS_Piste01_Duel",
+    "fps": 24,
+    "range_frames": [
+      0,
+      250
+    ],
+    "video_frames": 249,
+    "video_seconds": 10.375,
+    "note": "1280x720 image sequence at 24 fps, derived from original MP4; frame 249 repeated once for 250-frame loop. Internal Sequencer media player drives texture. Audio is not enabled."
+  },
+  "approximation": "Sabre geometry inferred from reference footage, attached to reconstructed right-hand pose. Not a recovered blade-tip trajectory; no blade bending or fencing hit simulation."
+}

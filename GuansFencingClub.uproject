@@ -1,0 +1,40 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Architecture",
+  "Description": "Guan's Fencing Club - desktop first person walkthrough",
+  "Plugins": [
+    {
+      "Name": "PythonScriptPlugin",
+      "Enabled": true
+    },
+    {
+      "Name": "EditorScriptingUtilities",
+      "Enabled": true
+    },
+    {
+      "Name": "EnhancedInput",
+      "Enabled": true
+    },
+    {
+      "Name": "GameplayStateTree",
+      "Enabled": true
+    },
+    {
+      "Name": "SequencerScripting",
+      "Enabled": true
+    },
+    {
+      "Name": "MediaCompositing",
+      "Enabled": true
+    },
+    {
+      "Name": "ImgMedia",
+      "Enabled": true
+    },
+    {
+      "Name": "WmfMedia",
+      "Enabled": true
+    }
+  ]
+}

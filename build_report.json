@@ -1,0 +1,25 @@
+{
+  "map": "/Game/GuansClub/FencingHall",
+  "mesh": "/Game/GuansClub/Meshes/SM_FencingHall.SM_FencingHall",
+  "extent_cm": [
+    1312.5000610351562,
+    912.5001220703125,
+    299.0
+  ],
+  "materials": [
+    "Slate_sports_floor",
+    "Warm_plaster",
+    "Graphite_steel",
+    "Teal_accent",
+    "Aluminium_piste",
+    "Piste_end_zones",
+    "White_lettering",
+    "Red_indicator",
+    "Green_indicator",
+    "Oak_benches",
+    "Light_diffuser"
+  ],
+  "game_mode": "/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C",
+  "actor_count": 17,
+  "status": "built; PIE movement, look, floor and wall collision checks passed; rendered screenshot reviewed"
+}

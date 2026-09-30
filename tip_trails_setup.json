@@ -1,0 +1,12 @@
+{
+  "history_seconds": 1,
+  "sample_rate": 48,
+  "tip_diameter_cm": 5,
+  "trail_diameter_cm": 1.6,
+  "colors": [
+    "blue",
+    "orange"
+  ],
+  "loop_behavior": "clear history on restart",
+  "source": "sampled current sword geometry and animation; not measured real blade motion"
+}

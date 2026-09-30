@@ -1,0 +1,17 @@
+/Saved/
+/Intermediate/
+/DerivedDataCache/
+/Binaries/
+/.vs/
+/.idea/
+*.sln
+*.suo
+*.user
+*.log
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.blend1
+*.blend2

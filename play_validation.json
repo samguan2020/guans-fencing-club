@@ -1,0 +1,21 @@
+{
+  "pawn_class": "/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C",
+  "spawn": [
+    -1080.0,
+    0.0,
+    97.64999771118164
+  ],
+  "after_forward": [
+    55.05060136085319,
+    0.0,
+    97.64999771118164
+  ],
+  "look_yaw_change": 67.5,
+  "wall_stop": [
+    1253.3172493229245,
+    27.62356058925812,
+    97.64999864848892
+  ],
+  "screenshot_exists": true,
+  "status": "passed"
+}
